@@ -5,7 +5,7 @@ sidebar_position: 3
 
 ## Delete  assets
 
-## Open `Account Settings` -> `Workspace` -> `Assets`.
+Open `Account Settings` -> `Workspace` -> `Assets`.
 
 You can delete an image by clicking on the `trash icon` that appears in the upper right corner when you mouse over the image.
 
